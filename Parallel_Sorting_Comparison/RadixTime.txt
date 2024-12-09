@@ -1,0 +1,6 @@
+Serial:
+0.002000
+PTHREADS:
+0.001000
+OpenMP:
+0.004000
