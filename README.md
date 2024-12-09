@@ -1,2 +1,2 @@
 # Parallel_Sorting_Comparison
-Conducted a Parallel Programming Comparison project on Linux, analyzing the performance of different sorting algorithms using Pthreads, OpenMP, and serial processing. Implemented execution time analysis and visualization using pyplot on Google Colab to compare the efficiency of each approach. Delivered insights on optimal parallel programming strategies by examining performance across multiple threading models.
+Read the OS Project Report in main folder for full details.
